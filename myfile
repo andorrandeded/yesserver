@@ -1,0 +1,9 @@
+<html>
+<head></head>
+<body>
+<h1>this is my server</h1>
+<script>
+console.log("hello man");
+</script>
+</body>
+</html>
